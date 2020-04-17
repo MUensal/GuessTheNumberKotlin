@@ -3,7 +3,7 @@ import KTLN.MADHomework.guessTheHiddenNumber
 
 
 fun main() {
-    //+++++++++++++++++ Guess the number Spiel +++++++++++++++++++++++++++
+    //+++++++++++++++++ Guess the Hidden Number Game +++++++++++++++++++++++++++
 
     guessTheHiddenNumber()
 
